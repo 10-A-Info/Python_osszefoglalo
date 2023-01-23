@@ -5,6 +5,9 @@
 }
 
 body {
-  color: $alapszin;
   font-family: $poppins;
+}
+
+ul {
+  list-style-position: inside;
 }

@@ -6,6 +6,36 @@
 }
 
 body {
-  color: royalblue;
   font-family: "Poppins", sans-serif;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+.tarto {
+  margin: auto;
+  width: 80vw;
+}
+.tarto h1,
+.tarto h2 {
+  color: royalblue;
+}
+.tarto p {
+  margin-bottom: 2em;
+  margin-top: 2em;
+  text-align: justify;
+}
+.tarto a {
+  color: black;
+  text-decoration: none;
+}
+.tarto a:visited {
+  text-decoration: none;
+}
+.tarto .pelda {
+  border: 1px solid royalblue;
+  box-shadow: 2px 2px 2px royalblue;
+  font-size: 1.5em;
+  width: 50vw;
 }/*# sourceMappingURL=stilus.css.map */
